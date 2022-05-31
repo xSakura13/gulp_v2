@@ -7,4 +7,5 @@ Instructions for use:
 2. Run: npm i -y
 4. Now in the object 'paths' change paths to your files to be processed.
 5. Run the command: gulp build
+
 When the assembler finishes, you will have a dist folder in your project. It will contain all the files that have been minified and compiled. 
